@@ -1,7 +1,7 @@
 # pythonproblems
 DS and ALGO
 
-# Search Element - search.py
+# Search Element [[search.py](https://github.com/som4n/pythonproblems/blob/main/search.py)]
 
 You are given an integer T (number of test cases). 
 You are given array A and an integer B for each test case. 
